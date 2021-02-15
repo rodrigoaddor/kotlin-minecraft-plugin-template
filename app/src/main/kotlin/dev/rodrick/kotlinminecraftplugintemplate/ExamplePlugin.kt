@@ -1,4 +1,4 @@
-package dev.rodrick.kotlinpaperplugintemplate
+package dev.rodrick.kotlinminecraftplugintemplate
 
 import org.bukkit.plugin.java.JavaPlugin
 
